@@ -3,7 +3,8 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     ssr: false,
     modules: [
-      '@nuxt/eslint',
+        '@nuxt/eslint',
+        'nuxt-icons',
     ],
     eslint: {
       checker: true
