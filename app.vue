@@ -1,11 +1,9 @@
 <template>
-  <div>
-    <nuxt-page />
-  </div>
+  <nuxt-page />
 </template>
 
-<style>
-.nuxt-icon svg{
+<style lang="scss">
+.nuxt-icon svg {
   margin-bottom: 0;
 }
 </style>
